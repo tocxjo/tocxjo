@@ -1,2 +1,14 @@
-* tocxjo
-HOLA
+* list of things i unfortunately like
+- learning languages (used to do AJATT)
+- c
+- low-level systems
+- gnu/linux
+- emacs
+- music
+- cybsec
+- ML
+- yeah
+
+* TODO projects i wanna make someday
+- [ ] bittorrent client with c
+- [ ] r-markdown support package for emacs
