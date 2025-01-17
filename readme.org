@@ -9,6 +9,7 @@
 - ML
 - yeah
 
-* TODO projects i wanna make someday
-- [ ] bittorrent client with c
-- [ ] r-markdown support package for emacs
+* projects i wanna make someday
+- TODO bittorrent client with c
+- TODO r-markdown support package for emacs
+- TODO file organizer for downloads folder in windows
