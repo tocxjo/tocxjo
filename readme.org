@@ -1,6 +1,14 @@
 *** mhmm hi
 
-[[emacs][https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white ]] [[void linux][https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff]] [[C][https://img.shields.io/badge/C-00599C?logo=c&logoColor=white]] [[PHP][https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white]] [[bash][https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff]] [[js][https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000]] [[https://tocxjo.github.io/portfolio/][https://img.shields.io/badge/portfolio-8A2BE2]]
+#+BEGIN_HTML
+<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="emacs">
+<img src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" alt="void">
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="bash">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript">
+<a href="https://tocxjo.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-8A2BE2" alt="portfolio"></a>
+#+END_HTML
 
 *** list of things i unfortunately like
 - learning languages (used to do AJATT)
