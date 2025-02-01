@@ -1,13 +1,15 @@
 *** mhmm hi
 
 #+BEGIN_HTML
-<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="emacs">
-<img src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" alt="void">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="bash">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript">
-<a href="https://tocxjo.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-8A2BE2" alt="portfolio"></a>
+<span style="white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="emacs" style="display: inline; margin: 0;">
+  <img src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" alt="void" style="display: inline; margin: 0;">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" style="display: inline; margin: 0;">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="php" style="display: inline; margin: 0;">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="bash" style="display: inline; margin: 0;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript" style="display: inline; margin: 0;">
+  <a href="https://tocxjo.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-8A2BE2" alt="portfolio" style="display: inline; margin: 0;"></a>
+</span>
 #+END_HTML
 
 *** list of things i unfortunately like
