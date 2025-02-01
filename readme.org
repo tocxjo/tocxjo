@@ -12,7 +12,7 @@
 </span>
 #+END_HTML
 
-*** list of things i unfortunately like
+list of things i unfortunately like:
 - learning languages (used to do AJATT)
 - low-level systems
 - gnu/linux
@@ -20,7 +20,7 @@
 - cybsec
 - ML
 
-*** projects i wanna make someday
+projects i wanna make someday:
 - TODO bittorrent client with c
 - TODO r-markdown support package for emacs
 - TODO browser extension that seeds youtube videos
