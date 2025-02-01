@@ -1,4 +1,4 @@
-*** mhmm hi
+*** heyyy i'm tocxjo/lemon
 
 #+BEGIN_HTML
 <span style="white-space: nowrap;">
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript" style="display: inline; margin: 0;">
   <a href="https://tocxjo.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-8A2BE2" alt="portfolio" style="display: inline; margin: 0;"></a>
 </span>
+<br>
 #+END_HTML
 
 list of things i unfortunately like:
