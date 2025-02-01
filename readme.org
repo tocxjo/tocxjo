@@ -13,7 +13,7 @@
 <br>
 #+END_HTML
 
-list of things i unfortunately like:
+list of things i like:
 - learning languages (used to do AJATT)
 - low-level systems
 - gnu/linux
