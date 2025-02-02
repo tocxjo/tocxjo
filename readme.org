@@ -25,4 +25,3 @@ projects i wanna make someday:
 - TODO bittorrent client with c
 - TODO r-markdown support package for emacs
 - TODO browser extension that seeds youtube videos
-- TODO file organizer for downloads folder in windows
