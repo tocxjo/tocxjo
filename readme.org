@@ -2,7 +2,7 @@
 
 #+BEGIN_HTML
 <span style="white-space: nowrap;">
-  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="emacs" style="display: inline; margin: 0;">
+  <a href="https://github.com/tocxjo/emacs"><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="emacs" style="display: inline; margin: 0;"></a>
   <img src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" alt="void" style="display: inline; margin: 0;">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" style="display: inline; margin: 0;">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="php" style="display: inline; margin: 0;">
