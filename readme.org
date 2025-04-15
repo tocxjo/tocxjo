@@ -1,5 +1,3 @@
-*** heyyy i'm tocxjo/lemon
-
 #+BEGIN_HTML
 <span style="white-space: nowrap;">
   <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="emacs" style="display: inline; margin: 0;">
